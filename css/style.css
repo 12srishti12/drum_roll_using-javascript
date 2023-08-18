@@ -1,0 +1,120 @@
+body{
+    background-color:#ACBCFF ;
+    color:#A2678A;
+    text-align: center;
+    display: inline;
+
+}
+h1{
+    font-size: 100px;
+    font-family: 'Barriecito', cursive;
+}
+
+
+
+.btn {
+    font-size:26px;
+    font-family:Arial;
+    width:167px;
+    height:150px;
+    border-width:1px;
+    color:#fff;
+    border-color:#ABC4AA;
+    font-weight:bold;
+    border-top-left-radius:14px;
+    border-top-right-radius:14px;
+    border-bottom-left-radius:14px;
+    border-bottom-right-radius:14px;
+    background:#ABC4AA;
+    margin-bottom: 50px;
+    margin-left: 10px;
+  }
+
+
+
+.w:hover {
+    background-image: url('/images/steel_drum.png');
+    background-color:#C8DBBE;
+}
+
+.a:hover {
+    background-image: url('/images/drum_roll.png');
+    background-color:#C8DBBE;
+}
+
+.s:hover{
+    background-image: url('/images/pngwing.com.png');
+    background-color:#C8DBBE;
+}
+  
+.d:hover{
+    background-image: url('/images/snare_drum.png');
+    background-color:#C8DBBE;
+}
+
+.j:hover{
+    background-image: url('/images/guitar.png');
+    background-color:#C8DBBE;
+}
+
+.k:hover{
+    background-image: url('/images/digital_piano.png');
+    background-color:#C8DBBE;
+}
+
+.l:hover{
+    background-image: url("/images/guitar_E.png");
+}
+
+
+.w{
+    background-size: cover;
+    background-position: center;
+    background-image:url('/images/steel_drum.png');
+}
+
+.a{
+    background-size: cover;
+    background-position: center;
+    background-image: url('/images/drum_roll.png');
+}
+
+.s{
+    background-size: cover;
+    background-position: center;
+    background-image: url('/images/pngwing.com.png');
+}
+
+.d{
+    background-size: cover;
+    background-position: center;
+    background-image: url('/images/snare_drum.png');
+}
+
+.j{
+    background-size: cover;
+    background-position: center;
+    background-image: url('/images/guitar.png');
+}
+
+.k{
+    background-size:cover;
+    background-position: center;
+    background-image: url('/images/digital_piano.png');
+}
+
+.pressed{
+    box-shadow: 0px 3px 4px 0px;
+    opacity: 0.5;
+}
+
+.l{
+    background-size: cover;
+    background-position: center;
+    background-image: url('/images/guitar_E.png');
+}
+
+.a, .k, .w, .s, .d, .j, .l{
+    font-size: 50px;
+    color: #A2678A;
+}
