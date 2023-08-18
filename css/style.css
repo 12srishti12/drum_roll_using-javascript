@@ -33,7 +33,7 @@ h1{
 
 
 .w:hover {
-    background-image: url('/images/steel_drum.png');
+    background-image: url('images/steel_drum.png');
     background-color:#C8DBBE;
 }
 
@@ -70,7 +70,7 @@ h1{
 .w{
     background-size: cover;
     background-position: center;
-    background-image:url('/images/steel_drum.png');
+    background-image:url('images/steel_drum.png');
 }
 
 .a{
